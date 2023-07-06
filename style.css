@@ -1,3 +1,30 @@
 body {
     font-family: Arial, sans-serif;
 }
+
+h1 {
+    font-size: 40px;
+}
+
+.link-list {
+    background-color: #42f5e6;
+}
+
+.link-list.main-page {
+    line-height: 32px;
+}
+
+.jerk-img {
+    height: auto;
+    width: 725px;
+}
+
+.tb-img,
+.bp-img {
+    height: auto;
+    width: 520px;
+}
+
+ul.ingr-list {
+    color: rgb(63, 128, 33);
+}
