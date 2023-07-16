@@ -4,14 +4,23 @@ body {
 
 h1 {
     font-size: 40px;
-}
-
-.link-list {
-    background-color: #42f5e6;
+    text-align: center;
 }
 
 .link-list.main-page {
     line-height: 32px;
+    margin: auto;
+    width: 60%;
+    margin-bottom: 20px;
+}
+
+div.main-page {
+    margin: auto;
+    width: 50%;
+}
+
+.main-page.container {
+    border: 2px solid black;
 }
 
 .jerk-img {
